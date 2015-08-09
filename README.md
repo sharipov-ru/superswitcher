@@ -15,6 +15,6 @@ This project is nothing more than a fork of original superswitcher from Google C
 
     superswitcher
 
-    Now super-Key should show superswitcher
+    Now super-Key should show superswitcher:
     
-    ![Superswitcher](/screenshots/superswitcher.png)
+    ![Superswitcher](https://github.com/sharipov-ru/superswitcher/blob/master/screenshots/superswitcher.png?raw=true)
