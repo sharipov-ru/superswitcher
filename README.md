@@ -14,3 +14,7 @@ This project is nothing more than a fork of original superswitcher from Google C
 ### Run
 
     superswitcher
+
+    Now super-Key should show superswitcher
+    
+    ![Superswitcher](/screenshots/superswitcher.png)
